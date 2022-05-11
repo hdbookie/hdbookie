@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hdbookie
-- 👀 I’m interested in health, tech, mindset, anything that can streamline my programming experience. 
-- 🌱 I’m currently learning python and django, while dabbling in frontend languages as well
-- 💞️ I’m looking to collaborate on projects that I can learn a lot from and fast
+- 👀 Python. Mindset. Health. Writing. Meat.
+- 💞️ I’m looking to collaborate on projects that I find interesting
 - 📫 How to reach me shoot me an email at hdbooks15@gmail.com
 
 <!---
