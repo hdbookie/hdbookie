@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hdbookie
 - 👀 Python. Mindset. Health. Writing. Meat.
-- 💞️ I’m currently learning Flutter and still refining my Python.
+- 💞️ I’m currently learning Flutter and stilll mastering Python.
 - 📫 How to reach me shoot me an email at hdbooks15@gmail.com
 
 <!---
