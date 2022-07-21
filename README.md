@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hdbookie
+- 👋 Hi, I'm Hunter.
 - 👀 Python/Flutter. Mindset. Health.
 - 💞️ Still mastering Python and building with Flutter.
 - 📫 How to reach me shoot me an email at hdbooks15@gmail.com
