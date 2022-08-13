@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Hunter.
-- 👀 Python/Flutter. Mindset. Health.
+- 👀 Python/Dart. Mindset. Health.
 - 💞️ Mastering Python and building with Flutter.
 - 📫 Feel free to shoot me an email at hdbooks15@gmail.com
 
