@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Hunter.
 - 👀 Dart/Python. Mindset. Health.
-- 💞️ Building with Flutter and Django
+- 💞️ Building with Flutter, FireBase, and Django
 - 📫 Feel free to shoot me an email at hdbooks15@gmail.com
 
 <!---
