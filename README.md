@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Hunter.
-- 👀 Dart/Python/React/FireBase
+- 👀 Dart/Python/React/FireBase/AWS
 - 📫 Feel free to shoot me an email at hdbooks15@gmail.com
 
 <!---
