@@ -30,4 +30,4 @@ Right now I’m focused on SurfHunter— a simple app that helps surf instructor
 ---
 
 📬 Want to chat or collaborate?  
-Reach me at [hunterbooks.co](https://hunterbooks.co) or DM me on Instagram [@hunterbooks](https://instagram.com/hunterbooks)
+Reach me at [hunterbooks.co](https://hunterbooks.co) or DM me on Instagram [@hunterbooks_](https://instagram.com/hunterbooks_)
