@@ -1,33 +1,35 @@
 # Hey, I'm Hunter 👋
 
-I'm a builder, founder, and athlete living in South Brazil. I love making tools that actually help people — especially surf teachers, freelancers, and small business owners.
+I'm an AI Engineer, founder, and athlete based in South Brazil. I build tools that actually help people — especially freelancers, small business owners, and professionals looking to work smarter.
 
-### 🌊 What I'm working on
+## 🌊 What I'm Working On
 
-Right now I’m focused on SurfHunter— a simple app that helps surf instructors manage their students, schedule lessons, and grow their business. It's already the fastest-growing surf app in Brazil.
+- **[ProHora](https://www.prohora.app/)** — a productivity app for professionals.  
+- AI consulting, including a **smart RAG system** for finance analytics with a larger company.
 
-### 🛠️ Tools I use
+## 🛠️ Tools & Tech
 
-- **Flutter** for building fast cross-platform apps  
-- **Firebase** for auth, database, and cloud functions  
-- **Node/TypeScript** when needed  
-- Some Domain-Driven Design to keep things clean  
-- And yeah — air fryer + coffee = daily fuel
+- **Claude Code** — power user  
+- **LangChain & LangGraph** for agent orchestration  
+- Flexible stack — whatever gets the job done  
+- Mate = daily fuel  
 
-### 🎯 Goals this year
+## 🎯 Goals This Year
 
-- Help 1,0000 surf teachers make more money with less stress  
-- Keep improving the product and getting real feedback  
+- Help professionals work more efficiently and stress-free  
+- Keep improving my products with real user feedback  
 - Stay strong, train consistently, and read more  
-- Build a system I actually enjoy running
+- Build systems I actually enjoy running  
 
-### 🐾 Other stuff
+## 🐾 Other Stuff
 
-- I train almost every day — CrossFit, gymnastics rings, surfing when I can  
-- I’ve got a big dog named **Bife** — we bike together every morning  
-- I believe in good systems, clear design, and building things that feel right
+- Train almost every day — CrossFit, gymnastics rings, surfing when possible  
+- Big dog named **Bife** — we bike together every morning  
+- Believe in good systems, clear design, and building things that feel right  
 
 ---
 
-📬 Want to chat or collaborate?  
-Reach me at [hunterbooks.co](https://hunterbooks.co) or DM me on Instagram [@hunterbooks_](https://instagram.com/hunterbooks_)
+📬 **Reach Out**  
+
+- Website: [hunterbooks.co](https://hunterbooks.co)  
+- Instagram: [@hunterbooks_](https://instagram.com/hunterbooks_)
