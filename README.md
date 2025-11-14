@@ -1,6 +1,6 @@
 # Hey, I'm Hunter 👋
 
-I'm an AI Engineer, founder, and athlete based in South Brazil. I build tools that actually help people — especially freelancers, small business owners, and professionals looking to work smarter.
+I'm an AI Engineer, founder, and athlete based in South Brazil. I build tools that actually help people — especially freelancers, corporate businesses, and professionals looking to work smarter.
 
 ## 🌊 What I'm Working On
 
